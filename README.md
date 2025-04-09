@@ -1,7 +1,7 @@
 RSSchool CV
 https://app.rs.school/cv/7f4f302f-7004-4b30-b8a0-034d59d59a46
 
-https://amarantea.ru/
+https://amarantea.ru/  
 https://mejsler.github.io/rsschool-cv/  
 https://mejsler.github.io/mejsler-JSFEPRESCHOOL2022Q4/plants/  
 https://mejsler.github.io/mejsler-JSFEPRESCHOOL2022Q4/momentum/  
